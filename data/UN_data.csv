@@ -1,0 +1,7 @@
+"Country or Territory","Station Name","WMO Station Number","National Station Id Number","Period","Element-Statistic Qualifier Code","Statistic Description","Unit","Jan","Jan Footnotes","Feb","Feb Footnotes","Mar","Mar Footnotes","Apr","Apr Footnotes","May","May Footnotes","Jun","Jun Footnotes","Jul","Jul Footnotes","Aug","Aug Footnotes","Sep","Sep Footnotes","Oct","Oct Footnotes","Nov","Nov Footnotes","Dec","Dec Footnotes","Annual","Annual Footnotes","Annual NCDC Computed Value","Annual NCDC Computed Value Footnotes"
+"LUXEMBOURG","LUXEMBOURG","6590","","1961-1990","","Percent of Possible","*","16.7","","28.7","","31.8","","39.9","","43.5","","43.3","","46.7","","46.9","","42.2","","33.0","","20.7","","17.2","","35.9","","-9999.9","1"
+"LUXEMBOURG","LUXEMBOURG","6590","","1961-1990","","Mean Number of Hours","*","43.9","","81.2","","117.6","","164.1","","206.4","","210.0","","232.9","","208.3","","158.6","","108.9","","55.5","","42.8","","1630.2","","1630.2",""
+"SINGAPORE","SINGAPORE/CHANGI","48698","","1961-1990","","Mean Number of Hours","*","172.4","","183.2","","192.7","","173.6","","179.8","","177.7","","187.9","","180.6","","156.2","","155.2","","129.6","","133.5","","2022.4","","2022.4",""
+
+"footnoteSeqID","Footnote"
+"1","code for missing value"
